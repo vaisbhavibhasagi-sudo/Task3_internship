@@ -1,19 +1,17 @@
-🚀 Machine Learning Internship 
+Task 3: Regression Model for Prediction
 
-Task 3
+Objective: Build a Linear Regression model to predict house values using the California Housing dataset.
 
-I'm happy to share my progress on Task 3: Regression Model for Prediction as part of my Machine Learning Internship at CodeOrbit Tech. 🤖📊
+Activities Performed:
 
-Through this task, I gained hands-on experience in:
+Split the dataset into training and testing sets.
 
-🔹 Building a Linear Regression model using Python
-🔹 Working with the California Housing dataset
-🔹 Predicting house values based on housing-related features
-🔹 Evaluating model performance using MAE, RMSE, and R² score
-🔹 Visualizing actual vs. predicted values
+Trained a Linear Regression model to predict house values.
 
-This task helped me understand how regression models work and how machine learning can be used for real-world predictions. 📈
+Evaluated performance using MAE, RMSE, and R² score.
 
-I'm grateful for this learning opportunity and excited to continue developing my skills in Machine Learning and Data Science! 💻✨
+Visualized actual versus predicted values.
 
-#MachineLearning #Python #DataScience #LinearRegression #PredictiveModeling #Internship #CodeOrbitTech #LearningByDoing
+Tools Used: Python, Pandas, Matplotlib, and Scikit-learn.
+
+Outcome: Gained practical experience in regression modeling, prediction, model evaluation, and data visualization.
